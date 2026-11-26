@@ -1,5 +1,5 @@
 # BitShares DEX for OctoBot — technical notes
-# Jeff Bouchard for Privateness.network xbtsx.ness and .nch nov 2026
+# Privateness.network xbtsx.ness and xbtsx.nch
 Plain-language version for users: **WHAT-YOU-GET.md**.
 
 ## Install
